@@ -22,7 +22,7 @@ sua gestão e criar um vínculo mais próximo e recorrente com seus clientes
 (tutores de pets).
 
 ## Tecnologias
-- Python / Django
+- Python
 - PostgreSQL
 
 ## Modelo de dados
